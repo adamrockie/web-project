@@ -1,0 +1,239 @@
+/* CSS Document */
+body {
+	background-color: #F30;
+	background-image: url(../images/bg/bg6.jpg);
+	background-attachment: fixed;
+}
+#header {
+	background-color: #000000;
+	height: 165px;
+	background-image: url(../images/jpg/header.jpg);
+}
+#navigation {
+	background-color: #00F;
+	height: 35px;
+	background-image: url(../images/png/nav.png);
+}
+#content {
+	margin: auto;
+	padding: 30px;
+	width: 940px;
+}
+#footer {
+	background-color: #000;
+	height: 350px;
+	background-image: url(../images/jpg/footer.jpg);
+}
+#footer {
+	background-color: #000;
+	height: 350px;
+}
+#slide {
+	height: 180px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#content1 {
+	height: 220px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#content2 {
+	height: 200px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#main_header {
+	background-color: #999;
+	margin: auto;
+	height: 165px;
+	width: 1000px;
+	background-image: url(../images/gif/main_header.gif);
+}
+#main_navigation {
+	background-color: #36F;
+	margin: auto;
+	height: 35px;
+	width: 1000px;
+	background-image: url(../images/png/nav.png);
+}
+#footer #top_footer {
+	background-color: #666;
+	margin: auto;
+	height: 300px;
+	width: 1000px;
+	background-image: url(../images/jpg/footer.jpg);
+}
+#bottom_footer {
+	background-color: #CCC;
+	margin: auto;
+	height: 50px;
+	width: 1000px;
+	background-image: url(../images/jpg/footer_bottom.jpg);
+}
+.content1_info {
+	float: left;
+	height: 220px;
+	width: 440px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.content2_info {
+	float: left;
+	height: 200px;
+	width: 283px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.footer_info {
+	height: 300px;
+	width: 220px;
+	margin-left: 15px;
+	margin-right: 15px;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	border-bottom-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+}
+.footer_info p strong {
+	font-size: 18px;
+	color: #FF0;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	margin: 0px;
+	float: none;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-left-width: 2px;
+}
+.footer_info li {
+	font-size: 15px;
+	line-height: 25px;
+	color: #FFF;
+	list-style-image: url(../images/png/clock.png);
+}
+
+.footer_info p {
+	color: #FFF;
+}
+#footer #bottom_footer p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	margin: 0px;
+	line-height: 50px;
+	text-align: center;
+	color: #FFF;
+}
+
+.footer_info p {
+	color: #FF0;
+}
+
+.footer_info bottom p {
+	color: #FFF;
+}
+
+.footer_info {
+	color: #FFF;
+}
+.footer_info p a {
+	color: #FC6;
+}
+.footer_info p a:hover {
+	color: #FF6;
+	text-decoration: underline;
+}
+
+.footer_info a {
+	color: #FF6;
+	text-decoration: underline;
+}
+
+.footer_info a:hover {
+	color: #FC6;
+}
+#footer #top_footer .footer_info .social {
+	height: 56px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: #000;
+	font-size: 14px;
+}
+.icon {
+	height: 56px;
+	width: 56px;
+	margin-right: 15px;
+	float: left;
+}
+#about {
+	padding: 10px;
+	width: 810px;
+}
+#about h2 {
+	color: #FF0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	border-bottom-width: 0px;
+	border-bottom-style: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+}
+#about p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+}
+.video {
+	padding: 10px;
+	width: 720px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+}
+#register {
+	margin: auto;
+	padding: 15px;
+	width: 700px;
+}
+#register fieldset {
+	border: 4px solid #390;
+}
+#register legend {
+	font-size: 25px;
+	color: #3C0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+#register  td {
+	line-height: 30px;
+}
+.reg1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #0C0;
+}
+.reg2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	color: #FFF;
+}
+#contact {
+	margin: auto;
+	padding: 15px;
+	width: 600px;
+}
